@@ -1,23 +1,23 @@
-## Portfolio
+## My amazing Portfolio
 
 ---
 
-### Category Name 1 
+### Bike Share Project 
 
-[Project 1 Title](/sample_page)
+[Bike Share](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Something Fancy](/pdf/HW_2_Xinge Zhang, Yingxue Ou, Yuewen Dai.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Home Value](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### MUSA Project
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
