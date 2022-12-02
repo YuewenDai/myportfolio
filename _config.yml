@@ -2,9 +2,9 @@ title: Yuewen Dai # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   My name is Yuewen 
-  <br><br>
+  <br>Hi!I'm a MUSA student.<br>
   Second description 
-  <br><br>
+  <br>I <br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
