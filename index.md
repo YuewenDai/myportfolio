@@ -1,8 +1,8 @@
-## My amazing Portfolio
+<i>As an urban analyst and designer, I've explored a range of fields from city scale to community and architecture scale. Check my projects below👇</i>
 
 ---
 
-### Bike Share Project 
+## Predictive Machine Learning Modelings and Analysis
 
 [Bike Share](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
