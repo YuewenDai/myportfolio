@@ -1,4 +1,4 @@
-<i>As an urban analyst and designer, I've explored a range of fields from city scale to community and architecture scale. Check my projects below👇</i>
+<i><b>As an urban analyst and designer, I've explored a range of fields from city scale to community and architecture scale. Check my projects below👇</b></i>
 
 ---
 
