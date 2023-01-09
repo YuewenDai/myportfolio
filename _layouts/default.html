@@ -22,7 +22,6 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        
 
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
@@ -41,7 +40,11 @@
       {{ content }}
 
       </section>
-      
+      <footer>
+        {% if site.github.is_project_page %}
+        <p><small>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small></p>
+        {% endif %}
+      </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
