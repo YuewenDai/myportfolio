@@ -1,17 +1,25 @@
-## *As an urban analyst and designer, I've explored a range of fields from city scale to community and architecture scale. Check my projects below*👇
+## As an urban analyst and designer, I've explored a range of fields from city scale to community and architecture scale. Check my projects below👇
 
 ------------------------------------------------------------------------
 
 ## Predictive Machine Learning Modelings and Analysis
 
-[Bike Share](/sample_page) <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[California Wildfire Risk Prediction and Application](/pdf/California_wildfire.html) 
+<img src="images/for computer2.png?raw=true"/>
 
 ---
-[Something Fancy](/pdf/HW_2_Xinge Zhang, Yingxue Ou, Yuewen Dai.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Housing Price Prediction in Mecklenburg County](/pdf/HousingPrice.html) 
+<img src="images/HousingPrice.png?raw=true"/>
+
 ---
 
-[Home Value](http://example.com/) <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Crime Risk Prediction in Chicago](/pdf/HW3_Crime_Prediction.html) 
+<img src="images/crimerisk.png?raw=true"/>
+
+---
+
+[Bikeshare Prediction in Philadelphia](/pdf/Bikeshbare.html) <img src="images/Bikeshare.gif?raw=true"/>
 
 ------------------------------------------------------------------------
 
