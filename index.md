@@ -18,7 +18,7 @@
 
 [US Coastal Flood Risk](https://storymaps.arcgis.com/stories/2ed153635dfc46a0a99c4bd4b62e6e92) [<img src="images/floodrisk.png?raw=true"/>](https://storymaps.arcgis.com/stories/2ed153635dfc46a0a99c4bd4b62e6e92)
 
-[Historic Constructions Detection](https://yuewendai.github.io/final-project/) <img src="images/js.png?raw=true"/>
+[Historic Constructions Detection](https://yuewendai.github.io/final-project) <img src="images/js.png?raw=true"/>
 
 ------------------------------------------------------------------------
 
