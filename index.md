@@ -24,8 +24,16 @@
 
 ## Spatial Analysis
 
-[California Wildfire Risk Prediction and Application](/pdf/California_wildfire.html) <img src="images/for computer2.png?raw=true"/>
+[Predict Median House Values in Philadelphia Block Groups](/pdf/Regression report fixed.pdf) <img src="images/regression.jpg?raw=true"/>
+
+[Examine the Predictors of Car Crashes Caused by Alcohol](/pdf/Regression report fixed.pdf) <img src="images/regression.jpg?raw=true"/>
+
+[Where to build a shrimp farm in Costa Rica](/pdf/Shrimp Farm.pdf) <img src="images/Shrimp Farm.jpg?raw=true"/>
+
+[The likelihood of future gun violence in Philadelphia](/pdf/Futureviolence.pdf) <img src="images/gun.jpg?raw=true"/>
 
 ------------------------------------------------------------------------
 
-## Architecture Design
+## Architecture and Urban Design
+
+[Predict Median House Values in Philadelphia Block Groups](/pdf/Regression report fixed.pdf) <img src="images/regression.jpg?raw=true"/>
