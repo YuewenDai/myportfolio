@@ -28,7 +28,7 @@
 
 [Examine the Predictors of Car Crashes Caused by Alcohol](/pdf/Regression report fixed.pdf) <img src="images/regression.jpg?raw=true"/>
 
-[Where to build a shrimp farm in Costa Rica](/pdf/Shrimp Farm.pdf) <img src="images/Shrimp Farm.jpg?raw=true"/>
+[Where to build a shrimp farm in Costa Rica](/pdf/Shrimp Farm.pdf) <img src="images/Shrimp Farm.png?raw=true"/>
 
 [The likelihood of future gun violence in Philadelphia](/pdf/Futureviolence.pdf) <img src="images/gun.jpg?raw=true"/>
 
