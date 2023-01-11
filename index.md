@@ -5,8 +5,8 @@
 ## Predictive Machine Learning Modelings and Analysis
 
 ### [California Wildfire Risk Prediction and Application](/pdf/California_wildfire.html) 
-<br>The wildfire has always been a severe problem in California. Both the property damages and the physical and psychological damages done to people are enormous, and it also have long-term impacts on air quality, water resources, and ecosystems. To better control and reduce the risk of wildfires, the government has taken many preventive measures. However, given any preventive measure requires significant government funding, and the resources are limited, the government wants to be able to invent every dollar precisely to where it is needed to control spending. Therefore a more accurate means of predicting where wildfires will occur is needed.</br> 
-<br><i> The works are done by R, ArcGIS </i></br> 
+<br>The wildfire has always been a severe problem in California. Both the property damages and the physical and psychological damages done to people are enormous, and it also have long-term impacts on air quality, water resources, and ecosystems. To better control and reduce the risk of wildfires, the government has taken many preventive measures. However, given any preventive measure requires significant government funding, and the resources are limited, the government wants to be able to invent every dollar precisely to where it is needed to control spending. Therefore a more accurate means of predicting where wildfires will occur is needed.
+<br><i> The works are done by R, ArcGIS </i>
 [<img src="images/for computer2.png?raw=true"/>](/pdf/California_wildfire.html)
 
 ### [Housing Price Prediction in Mecklenburg County](/pdf/HousingPrice.html) 
