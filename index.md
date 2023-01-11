@@ -38,4 +38,4 @@
 
 [Hanyang Iron Plant Reconstruction Design](/pdf/hanyang.pdf) <img src="images/hanyang.jpg?raw=true"/>
 
-[Young Migrant Collective Housing](/pdf/housing.pdf) <img src="images/housing.jpg?raw=true"/>
+[Young Migrant Collective Housing](/pdf/housing.pdf) <img src="images/housing.png?raw=true"/>
