@@ -4,7 +4,9 @@
 
 ## Predictive Machine Learning Modelings and Analysis
 
-[California Wildfire Risk Prediction and Application](/pdf/California_wildfire.html) [<img src="images/for computer2.png?raw=true"/>](/pdf/California_wildfire.html)
+[California Wildfire Risk Prediction and Application](/pdf/California_wildfire.html) <br>The wildfire has always been a severe problem in California. Both the property damages and the physical and psychological damages done to people are enormous, and it also have long-term impacts on air quality, water resources, and ecosystems. To better control and reduce the risk of wildfires, the government has taken many preventive measures. However, given any preventive measure requires significant government funding, and the resources are limited, the government wants to be able to invent every dollar precisely to where it is needed to control spending. Therefore a more accurate means of predicting where wildfires will occur is needed.</br> 
+<br> The works are done by R, ArcGIS </br> 
+[<img src="images/for computer2.png?raw=true"/>](/pdf/California_wildfire.html)
 
 [Housing Price Prediction in Mecklenburg County](/pdf/HousingPrice.html) [<img src="images/HousingPrice.png?raw=true"/>](/pdf/HousingPrice.html)
 
@@ -24,11 +26,11 @@
 
 ## Spatial Analysis
 
-[Predict Median House Values in Philadelphia Block Groups](/pdf/Regression report fixed.pdf) <img src="images/regression.jpg?raw=true"/>
+[Predict Median House Values in Philadelphia Block Groups](/pdf/Regression%20report%20fixed.pdf) <img src="images/regression.jpg?raw=true"/>
 
-[Examine the Predictors of Car Crashes Caused by Alcohol](/pdf/Logistic Report fixed.pdf) <img src="images/carcrashes.jpg?raw=true"/>
+[Examine the Predictors of Car Crashes Caused by Alcohol](/pdf/Logistic%20Report%20fixed.pdf) <img src="images/carcrashes.jpg?raw=true"/>
 
-[Where to build a shrimp farm in Costa Rica](/pdf/Shrimp Farm.pdf) <img src="images/Shrimp Farm.png?raw=true"/>
+[Where to build a shrimp farm in Costa Rica](/pdf/Shrimp%20Farm.pdf) <img src="images/Shrimp Farm.png?raw=true"/>
 
 [The likelihood of future gun violence in Philadelphia](/pdf/Futureviolence.pdf) <img src="images/gun.jpg?raw=true"/>
 
