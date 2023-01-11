@@ -4,16 +4,16 @@
 
 ## Predictive Machine Learning Modelings and Analysis
 
-[California Wildfire Risk Prediction and Application](/pdf/California_wildfire.html) 
+### [California Wildfire Risk Prediction and Application](/pdf/California_wildfire.html) 
 <br>The wildfire has always been a severe problem in California. Both the property damages and the physical and psychological damages done to people are enormous, and it also have long-term impacts on air quality, water resources, and ecosystems. To better control and reduce the risk of wildfires, the government has taken many preventive measures. However, given any preventive measure requires significant government funding, and the resources are limited, the government wants to be able to invent every dollar precisely to where it is needed to control spending. Therefore a more accurate means of predicting where wildfires will occur is needed.</br> 
 <br><i> The works are done by R, ArcGIS </i></br> 
 [<img src="images/for computer2.png?raw=true"/>](/pdf/California_wildfire.html)
 
-[Housing Price Prediction in Mecklenburg County](/pdf/HousingPrice.html) [<img src="images/HousingPrice.png?raw=true"/>](/pdf/HousingPrice.html)
+### [Housing Price Prediction in Mecklenburg County](/pdf/HousingPrice.html) [<img src="images/HousingPrice.png?raw=true"/>](/pdf/HousingPrice.html)
 
-[Crime Risk Prediction in Chicago](/pdf/HW3_Crime_Prediction.html) [<img src="images/crimerisk.png?raw=true"/>](/pdf/HW3_Crime_Prediction.html)
+### [Crime Risk Prediction in Chicago](/pdf/HW3_Crime_Prediction.html) [<img src="images/crimerisk.png?raw=true"/>](/pdf/HW3_Crime_Prediction.html)
 
-[Bikeshare Prediction in Philadelphia](/pdf/Bikeshbare.html) [<img src="images/Bikeshare.gif?raw=true"/>](/pdf/Bikeshbare.html)
+### [Bikeshare Prediction in Philadelphia](/pdf/Bikeshbare.html) [<img src="images/Bikeshare.gif?raw=true"/>](/pdf/Bikeshbare.html)
 
 ------------------------------------------------------------------------
 
