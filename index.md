@@ -26,7 +26,7 @@
 
 [Predict Median House Values in Philadelphia Block Groups](/pdf/Regression report fixed.pdf) <img src="images/regression.jpg?raw=true"/>
 
-[Examine the Predictors of Car Crashes Caused by Alcohol](/pdf/Regression report fixed.pdf) <img src="images/carcrashes.jpg?raw=true"/>
+[Examine the Predictors of Car Crashes Caused by Alcohol](/pdf/Logistic Report fixed.pdf) <img src="images/carcrashes.jpg?raw=true"/>
 
 [Where to build a shrimp farm in Costa Rica](/pdf/Shrimp Farm.pdf) <img src="images/Shrimp Farm.png?raw=true"/>
 
@@ -36,4 +36,6 @@
 
 ## Architecture and Urban Design
 
-[Predict Median House Values in Philadelphia Block Groups](/pdf/Regression report fixed.pdf) <img src="images/regression.jpg?raw=true"/>
+[Hanyang Iron Plant Reconstruction Design](/pdf/hanyang.pdf) <img src="images/hanyang.jpg?raw=true"/>
+
+[Young Migrant Collective Housing](/pdf/housing.pdf) <img src="images/housing.jpg?raw=true"/>
