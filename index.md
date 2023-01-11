@@ -57,10 +57,10 @@
 
 ## Architecture and Urban Design
 
-[Hanyang Iron Plant Reconstruction Design](/pdf/hanyang.pdf) 
+### [Hanyang Iron Plant Reconstruction Design](/pdf/hanyang.pdf) 
 <br>
 [<img src="images/hanyang.jpg?raw=true"/>](/pdf/hanyang.pdf) 
 
-[Young Migrant Collective Housing](/pdf/housing.pdf) 
+### [Young Migrant Collective Housing](/pdf/housing.pdf) 
 <br>
 [<img src="images/housing.png?raw=true"/>](/pdf/housing.pdf)
