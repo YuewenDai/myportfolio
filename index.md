@@ -11,15 +11,21 @@ The wildfire has always been a severe problem in California. Both the property d
 [<img src="images/for computer2.png?raw=true"/>](/pdf/California_wildfire.html)
 
 ### [Housing Price Prediction in Mecklenburg County](/pdf/HousingPrice.html) 
+Zillow is an US real-estate marketplace company, it provides its users with house features information as well as estimations for homes that have undergone major changes. However, Zillow has realized that their housing market forecasts are not as accurate as they could be due to a lack of regional intelligence. In this project, we collected housing feature data, geographic data and census data, an then developed a machine learning model for Zillow to better predict the housing price in Mecklenburg County.
 <br>
+<br><i> The works are done by R </i>
 [<img src="images/HousingPrice.png?raw=true"/>](/pdf/HousingPrice.html)
 
 ### [Crime Risk Prediction in Chicago](/pdf/HW3_Crime_Prediction.html) 
+Crime has always been a key factor in cities that has a great impact on land values, zoning, resource allocation, etc. Analyzing crime-related factors and making predictions on crimes can help policymakers decide on regional policies, help police deploy resources more rationally, and also help people visualize the safety of a region more directly. Here, I developed a risk prediction model by borrowing experiences from places where crimes has been observed.
 <br>
+<br><i> The works are done by R </i>
 [<img src="images/crimerisk.png?raw=true"/>](/pdf/HW3_Crime_Prediction.html)
 
 ### [Bikeshare Prediction in Philadelphia](/pdf/Bikeshbare.html)
+Indego, Philadelphia’s bike-share program, offers options to ride shared electric bicycles available at over 140 stations around the city, accessible all year round. It provides people a more convenient way to travel short distances. However, it would be a problem if people go to a station but find that there are no available bicycles or if people are ready to return bikes but find no space available, so it's important to carry out a re-balancing plan for the bikeshare company. In the project, I build a model to predict the peak space/time usage of bike-share so that the re-balancing program can be carried out effectively.
 <br>
+<br><i> The works are done by R </i>
 [<img src="images/Bikeshare.gif?raw=true"/>](/pdf/Bikeshbare.html)
 
 ------------------------------------------------------------------------
@@ -27,11 +33,15 @@ The wildfire has always been a severe problem in California. Both the property d
 ## Web Visualization
 
 ### [US Coastal Flood Risk](https://storymaps.arcgis.com/stories/2ed153635dfc46a0a99c4bd4b62e6e92) 
+Floods have brought great losses to US coastal areas and will cause even more damage in the future due to sea level rise. The severity of the flooding cannot be visualized by looking at the numbers alone. Here, I use data, map and other media sources to show you the severity of floods and how people deal with this problem.
 <br>
+<br><i> The works are done by ArcGIS (& Online Platform) </i>
 [<img src="images/floodrisk.png?raw=true"/>](https://storymaps.arcgis.com/stories/2ed153635dfc46a0a99c4bd4b62e6e92)
 
 ### [Historic Constructions Detection](https://yuewendai.github.io/final-project/site//) 
+
 <br>
+<br><i> The works are done by JavaScript,css, html, Leaflet, Firebase, R </i>
 [<img src="images/js.png?raw=true"/>](https://yuewendai.github.io/final-project/site//)
 
 ------------------------------------------------------------------------
