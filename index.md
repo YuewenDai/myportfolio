@@ -39,7 +39,7 @@ Floods have brought great losses to US coastal areas and will cause even more da
 [<img src="images/floodrisk.png?raw=true"/>](https://storymaps.arcgis.com/stories/2ed153635dfc46a0a99c4bd4b62e6e92)
 
 ### [Historic Constructions Detection](https://yuewendai.github.io/final-project/site//) 
-
+This is a useful interactive map tool for exploring architectures in the city. For tourists and architects, this app will help them find the historic sites on map, read the introductions of the buildings, and add their own notes.
 <br>
 <br><i> The works are done by JavaScript,css, html, Leaflet, Firebase, R </i>
 [<img src="images/js.png?raw=true"/>](https://yuewendai.github.io/final-project/site//)
