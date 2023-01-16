@@ -49,19 +49,26 @@ This is a useful interactive map tool for exploring architectures in the city. F
 ## Spatial Analysis
 
 ### [Predict Median House Values in Philadelphia Block Groups](/pdf/Regression%20report%20fixed.pdf) 
+Our goal in this research is to investigate any spatial autocorrelation in neighborhood variables and investigate ways to potentially enhance the findings. Using Philadelphia data at the Census block group level, we will use GeoDa and ArcGIS to run spatial lag, spatial error and geographically weighted regression to see whether these methods can explain the spatial autocorrelation that might remain in the OLS residuals.
 <br>
+<br><i> The works are done by ArcGIS, GeoDa, R </i>
 [<img src="images/regression.jpg?raw=true"/>](/pdf/Regression%20report%20fixed.pdf)
 
 ### [Examine the Predictors of Car Crashes Caused by Alcohol](/pdf/Logistic%20Report%20fixed.pdf) 
+Our goal in this research is to identify predictors of accidents related to drunk driving. To predict the drunk driving, we should run the Logistic regression in R to see the extent to which drunk driving might be associated with the predictors. 
 <br>
+<br><i> The works are done by R </i>
 [<img src="images/carcrashes.jpg?raw=true"/>](/pdf/Logistic%20Report%20fixed.pdf)
 
 ### [Where to build a shrimp farm in Costa Rica](/pdf/Shrimp%20Farm.pdf) 
+In recent years, Costa Rica has been developing organic and sustainable shrimp farming. In particular, it is trying to move the production away from mangrove forests, as intensive shrimp farming is destructive to that environment. It also encourages a practice that moves away from the heavy use of chemicals and antibiotics. This project is built for farmers to find where to locate a organic and sustainable shrimp farm.
 <br>
+<br><i> The works are done by ArcGIS </i>
 [<img src="images/Shrimp Farm.png?raw=true"/>](/pdf/Shrimp%20Farm.pdf) 
 
 ### [The likelihood of future gun violence in Philadelphia](/pdf/Futureviolence.pdf) 
 <br>
+<br><i> The works are done by ArcGIS </i>
 [<img src="images/gun.jpg?raw=true"/>](/pdf/Futureviolence.pdf)
 
 ------------------------------------------------------------------------
