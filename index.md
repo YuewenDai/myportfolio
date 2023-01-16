@@ -68,10 +68,12 @@ This is a useful interactive map tool for exploring architectures in the city. F
 
 ## Architecture and Urban Design
 
-### [Hanyang Iron Plant Reconstruction Design](/pdf/hanyang.pdf) 
+### [Hanyang Iron Plant Reconstruction Design](/pdf/hanyang.pdf)
+Hanyang Steel Works is China’s heavy industry production base in the last century. However, for decades, its operation has also caused great damage to the surrounding environment. The natural ecology has been irreversibly damaged. This design aims to implant biological systems into the ruins of abandoned industrial plants through human intervention, so that nature can regain the right to speak. While achieving ecological sustainability, by organizing spaces where nature and architecture intersect each other, it promotes the re-harmonization of man and nature.
 <br>
 [<img src="images/hanyang.jpg?raw=true"/>](/pdf/hanyang.pdf) 
 
 ### [Young Migrant Collective Housing](/pdf/housing.pdf) 
+This project is located in the Ziyang area of Wuhan, Hubei. On the north side of the project plot, there is one of the most important urban roads in Wuhan-Wuluo Road, which connects many important universities in Wuhan and serves as a bridge connecting Wuhan to the north and south rivers. Public transportation is developed on Wuluo Road. Considering that many colleges and universities on both sides of Wuluo Road can introduce a large number of young people to the land, the main population of residential design is young people.
 <br>
 [<img src="images/housing.png?raw=true"/>](/pdf/housing.pdf)
