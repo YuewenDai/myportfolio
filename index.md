@@ -67,6 +67,7 @@ In recent years, Costa Rica has been developing organic and sustainable shrimp f
 [<img src="images/Shrimp Farm.png?raw=true"/>](/pdf/Shrimp%20Farm.pdf) 
 
 ### [The likelihood of future gun violence in Philadelphia](/pdf/Futureviolence.pdf) 
+This project calculates the probability of future gun violence happens in Philadelphia using existing point data.
 <br>
 <br><i> The works are done by ArcGIS </i>
 [<img src="images/gun.jpg?raw=true"/>](/pdf/Futureviolence.pdf)
