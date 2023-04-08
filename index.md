@@ -90,4 +90,4 @@ This project is located in the Ziyang area of Wuhan, Hubei. On the north side of
 Taking the new site of Changhong Middle School in Wuhan as an example, this project attempts to introduce a new communication space system on top of satisfying
 basic teaching, so that the traditional teaching space and the independent exploration space are intertwined and collided. There are the following innovations in the teaching mode: 1. Insert two sets of intersecting space systems, 2. Add open shared space, and 3. Integrate traditional teaching space and new teaching space. The design concept is not only presented in the planning and layout, but also in the interior graphic design and façade design. Ultimately, an open campus space with both order and freedom will be established to provide support for future innovative teaching.
 <br>
-[<img src="images/schoolcampus.jpg?raw=true"/>](/pdf/housing.pdf)
+[<img src="images/schoolcampus.jpg?raw=true"/>](/pdf/schoolcampus.pdf)
