@@ -4,6 +4,12 @@
 
 ## Predictive Machine Learning Modelings and Analysis
 
+### [Chesapeake Bay Landcover Change Precision Prediction](/pdf/Chesapeake precision forecast.html) 
+This project aims to develop a precision forecast model for land cover change at the Chesapeake Watershed. By leveraging high-resolution longitudinal land cover data provided by the Chesapeake Conservancy, the model will predict land cover conversions from pervious to impervious surfaces. This forecast will enable land use and environmental planners to identify where urban growth will occur, propose green infrastructure accordingly, and prioritize lands for protection. The model will be generalizable to the county level, incorporating only widely available inputs, thus allowing any municipality within the Chesapeake basin to replicate the analysis. This proof-of-concept project will demonstrate the utility of precision conservation in land protection and green infrastructure planning and provide a valuable tool for planners and policymakers across the region.
+<br>
+<br><i> Skiils Used: R, Machine Learning, ArcGIS </i>
+[<img src="images/app.png?raw=true"/>](/pdf/Chesapeake precision forecast.html)
+
 ### [California Wildfire Risk Prediction and Application](/pdf/California_wildfire.html) 
 The wildfire has always been a severe problem in California. Both the property damages and the physical and psychological damages done to people are enormous, and it also have long-term impacts on air quality, water resources, and ecosystems. To better control and reduce the risk of wildfires, the government has taken many preventive measures. However, given any preventive measure requires significant government funding, and the resources are limited, the government wants to be able to invent every dollar precisely to where it is needed to control spending. Therefore a more accurate means of predicting where wildfires will occur is needed.
 <br>
