@@ -87,10 +87,10 @@ Hanyang Steel Works is China’s heavy industry production base in the last cent
 <br>
 [<img src="images/hanyang.jpg?raw=true"/>](/pdf/hanyang.pdf) 
 
-### [Young Migrant Collective Housing](/pdf/housing.pdf) 
+### [Young Migrant Collective Housing]
 This project is located in the Ziyang area of Wuhan, Hubei. On the north side of the project plot, there is one of the most important urban roads in Wuhan-Wuluo Road, which connects many important universities in Wuhan and serves as a bridge connecting Wuhan to the north and south rivers. Public transportation is developed on Wuluo Road. Considering that many colleges and universities on both sides of Wuluo Road can introduce a large number of young people to the land, the main population of residential design is young people.
 <br>
-[<img src="images/housing.png?raw=true"/>](/pdf/housing.pdf)
+[<img src="images/housing.png?raw=true"/>]
 
 ### [Wuhan Changhong School Campus Design](/pdf/schoolcampus.pdf) 
 Taking the new site of Changhong Middle School in Wuhan as an example, this project attempts to introduce a new communication space system on top of satisfying
