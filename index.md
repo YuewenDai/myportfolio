@@ -76,7 +76,7 @@ In recent years, Costa Rica has been developing organic and sustainable shrimp f
 This project calculates the probability of future gun violence happens in Philadelphia using existing point data.
 <br>
 <br><i> Skills Used: ArcGIS </i>
-[<img src="images/gun.jpg?raw=true"/>](/pdf/Futureviolence.pdf)
+[<img src="images/gun.png?raw=true"/>](/pdf/Futureviolence.pdf)
 
 ------------------------------------------------------------------------
 
